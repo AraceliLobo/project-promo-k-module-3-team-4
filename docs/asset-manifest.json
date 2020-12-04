@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "./static/css/main.47fec7f6.chunk.css",
-    "main.js": "./static/js/main.31ec5683.chunk.js",
-    "main.js.map": "./static/js/main.31ec5683.chunk.js.map",
+    "main.css": "./static/css/main.54b4dd67.chunk.css",
+    "main.js": "./static/js/main.b5c5b3e6.chunk.js",
+    "main.js.map": "./static/js/main.b5c5b3e6.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.af8746e2.js",
     "runtime-main.js.map": "./static/js/runtime-main.af8746e2.js.map",
     "static/js/2.c788ebd2.chunk.js": "./static/js/2.c788ebd2.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.fa9cf890.chunk.js": "./static/js/3.fa9cf890.chunk.js",
     "static/js/3.fa9cf890.chunk.js.map": "./static/js/3.fa9cf890.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/main.47fec7f6.chunk.css.map": "./static/css/main.47fec7f6.chunk.css.map",
+    "static/css/main.54b4dd67.chunk.css.map": "./static/css/main.54b4dd67.chunk.css.map",
     "static/js/2.c788ebd2.chunk.js.LICENSE.txt": "./static/js/2.c788ebd2.chunk.js.LICENSE.txt",
     "static/media/logo-awesome-profile-cards.a65df2b2.svg": "./static/media/logo-awesome-profile-cards.a65df2b2.svg",
     "static/media/totoro.b8c55839.jpg": "./static/media/totoro.b8c55839.jpg"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.af8746e2.js",
     "static/js/2.c788ebd2.chunk.js",
-    "static/css/main.47fec7f6.chunk.css",
-    "static/js/main.31ec5683.chunk.js"
+    "static/css/main.54b4dd67.chunk.css",
+    "static/js/main.b5c5b3e6.chunk.js"
   ]
 }
